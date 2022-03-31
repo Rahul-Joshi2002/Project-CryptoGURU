@@ -45,24 +45,6 @@ div.card {
 	margin-right: 5px;
 	padding: 3px;
 }
-p#footerText {
-	font-weight: bold;
-	margin-top: 4em;
-	color: white;
-	font-size: 30px;
-}
-p#footerText2 {
-	font-weight: bold;
-	margin-top: 4em;
-	color: white;
-	font-size: 30px;
-}
-p#coinFooterText {
-	font-weight: bold;
-	margin-top: 4em;
-	color: white;
-	font-size: 30px;
-}
 .footer {
 	clear: left;
 }
@@ -99,7 +81,7 @@ p#coinFooterText {
 	}
 	p#footerText {
 	font-weight: bold;
-	margin-top: 8%;
+	margin-top: 4em;
 	color: #F0FFFF;
 	font-size: 30px;
 	}
@@ -109,4 +91,10 @@ p#coinFooterText {
 	color: #F0FFFF;
 	font-size: 30px;
 	}
+	p#coinFooterText {
+	font-weight: bold;
+	margin-top: 4em;
+	color: #F0FFFF;
+	font-size: 30px;
+}
 }
