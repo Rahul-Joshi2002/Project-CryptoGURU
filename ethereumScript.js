@@ -17,6 +17,8 @@ xhr.addEventListener("readystatechange", function () {
       <li class="list-group-item">Market Capitalization of Currency : ${coins[1].marketCap} USD</li>
       <li class="list-group-item list-group-item-secondary">Price of Currency : ${coins[1].price} USD</li>
       <li class="list-group-item">Change in Price : ${coins[1].change} %</li>
+      <li class="list-group-item list-group-item-secondary">Low-Volume : ${coins[1].lowVolume}</li>
+      <li class="list-group-item">24 hour Volume : ${coins[1]["24hVolume"]} USD</li>
     </ul>
     </div>`
 
