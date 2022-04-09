@@ -1,6 +1,9 @@
 .card-img {
 filter: brightness(45%);
 }
+div.footer:hover {
+filter: brightness(90%);
+}
 h1 {
 margin-top: 20px;
 color: teal;
