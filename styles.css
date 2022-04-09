@@ -1,3 +1,12 @@
+.headingABT {
+	font-size: 28px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+	text-decoration: 600%;
+	color: teal;
+	padding: 3px;
+}
 .card-img {
 filter: brightness(45%);
 }
@@ -43,9 +52,9 @@ margin-left: 8px;
 div.card {
 	margin-top: 30px;
 }
-#heading,p.textAboutUs,ul.textAboutUs {
+p.textAboutUs,ul.textAboutUs {
 	text-align: left;
-	font-family: cursive;
+	font-family: Verdana;
 	font-size: 18px;
 	margin-top: 15px;
 	margin-bottom: 15px;
