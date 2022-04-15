@@ -88,6 +88,9 @@ p.textAboutUs,ul.textAboutUs {
 		h1 {
 			font-size: 30px;
 		}
+		.card_for_mobiles {
+			text-align: center;
+		}
 }
 @media screen and (min-width: 768px) {
 	.coins {
