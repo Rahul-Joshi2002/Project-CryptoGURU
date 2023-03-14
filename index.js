@@ -74,7 +74,7 @@ infoCard.innerHTML = info;
   }
 }
 
-xhr.open("GET", "https://coinranking1.p.rapidapi.com/coins?referenceCurrencyUuid=yhjMzLPhuIDl&timePeriod=24h&tiers=1&orderBy=marketCap&orderDirection=desc&limit=50&offset=0");
+xhr.open("GET", "https://rahul-joshi2002.github.io/Project-CryptoGURU/https://coinranking1.p.rapidapi.com/coins?referenceCurrencyUuid=yhjMzLPhuIDl&timePeriod=24h&tiers=1&orderBy=marketCap&orderDirection=desc&limit=50&offset=0");
 xhr.setRequestHeader("X-RapidAPI-Host", "coinranking1.p.rapidapi.com");
 xhr.setRequestHeader("X-RapidAPI-Key", "235fc32a56msh9cac97b50946d7dp1dde5fjsn3cfb0b04e4c3");
 
